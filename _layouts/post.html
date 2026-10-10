@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% assign words = content | number_of_words %}
+{% assign minutes = words | divided_by: 200 | at_least: 1 %}
+<article class="post">
+  <p class="post-back"><a href="{{ '/blog/' | relative_url }}">&larr; All posts</a></p>
+
+  <h1 class="post-title">{{ page.title }}</h1>
+  <p class="post-meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+    &middot; {{ minutes }} min read
+    {% if page.tags.size > 0 %}&middot; {{ page.tags | join: ", " }}{% endif %}
+  </p>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% if page.previous or page.next %}
+  <nav class="post-nav">
+    {% if page.previous %}
+    <a class="post-nav-prev" href="{{ page.previous.url | relative_url }}">&larr; {{ page.previous.title }}</a>
+    {% else %}<span></span>{% endif %}
+    {% if page.next %}
+    <a class="post-nav-next" href="{{ page.next.url | relative_url }}">{{ page.next.title }} &rarr;</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</article>

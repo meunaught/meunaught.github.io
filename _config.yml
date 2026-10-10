@@ -1,0 +1,74 @@
+# Basic Information
+title: Mahadi Hasan
+position: Prospective CS Ph.D. Student (Fall 2027)
+affiliation: TODO Your University / Lab
+affiliation_link: https://example.com/  # TODO
+email: TODO (at) example.com
+
+# Site address. Used for canonical links, the RSS feed and the sitemap.
+url: https://meunaught.github.io
+baseurl: ""
+repository: meunaught/meunaught.github.io
+
+# Search Engine Optimization (SEO)
+# Shown by Google and in link previews (LinkedIn, Slack, etc.) for pages without their own description.
+keywords: Mahadi Hasan, computer science, PhD applicant
+description: Mahadi Hasan is a prospective computer science Ph.D. student (Fall 2027). TODO one line on your research focus.
+
+# Links
+# Delete or comment out any you don't use; the matching icon disappears.
+# google_scholar: https://scholar.google.com/citations?user=TODO
+cv_link: /assets/files/curriculum_vitae.pdf
+github_link: https://github.com/meunaught
+# linkedin: https://www.linkedin.com/in/TODO
+# twitter: https://twitter.com/TODO
+
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
+avatar: /assets/img/avatar.png
+favicon: /assets/img/favicon.png
+favicon_dark: /assets/img/favicon-dark.png
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# Google Analytics 4 measurement ID (looks like G-XXXXXXXXXX). Only loaded on the live site.
+# google_analytics: G-XXXXXXXXXX
+
+# Blog
+# Posts live in _posts/ as YYYY-MM-DD-title.md and are served at /blog/YEAR/title/.
+# Drafts live in _drafts/ (no date in the filename); they show in the local preview only.
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+feed:
+  path: blog/feed.xml
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /blog/:year/:title/
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CLAUDE.md
+  - LICENSE
+  - minimal-light.gemspec
+  - docker-compose.yml
+  - vendor/

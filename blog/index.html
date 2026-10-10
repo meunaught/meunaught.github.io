@@ -1,0 +1,30 @@
+---
+layout: default
+title: Blog
+description: Notes and essays by Mahadi Hasan.
+---
+
+<h2>Blog</h2>
+
+{% if site.posts.size == 0 %}
+<p>No posts yet.</p>
+{% else %}
+{% for post in site.posts %}
+  {% assign year = post.date | date: "%Y" %}
+  {% if year != current_year %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h3 class="post-year">{{ year }}</h3>
+    <ul class="post-list">
+    {% assign current_year = year %}
+  {% endif %}
+  <li>
+    <span class="post-date">{{ post.date | date: "%b %-d" }}</span>
+    <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {% assign summary = post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 180 %}
+    {% if summary != "" %}<p class="post-summary">{{ summary }}</p>{% endif %}
+  </li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
+{% endif %}
+
+<p class="post-feed"><a href="{{ '/blog/feed.xml' | relative_url }}"><i class="fas fa-rss"></i> RSS feed</a></p>

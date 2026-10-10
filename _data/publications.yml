@@ -1,0 +1,16 @@
+# Your papers, newest first. Delete the example entry below; if this list is empty,
+# the Publications section is hidden. Wrap your own name in <strong></strong>.
+# Every field except title, authors and conference is optional.
+
+main:
+
+  - title: "TODO Paper Title"
+    authors: <strong>Mahadi Hasan</strong>, TODO Coauthor, TODO Advisor
+    conference_short: TODO
+    conference: TODO Full Venue Name <strong>(TODO)</strong>, 2026.
+    pdf: https://arxiv.org/abs/TODO
+    code: https://github.com/meunaught/TODO
+    # page: https://example.com/project-page
+    # bibtex: /assets/files/TODO.bib
+    image: ./assets/img/teaser_example.png
+    # notes: Under Review

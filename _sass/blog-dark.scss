@@ -1,0 +1,37 @@
+// Dark-mode overrides for blog.scss. Only imported when auto_dark_mode is on.
+
+@media (prefers-color-scheme: dark) {
+  .site-nav {
+    a { color: #dadbdf; }
+    a:hover, a.active { color: rgb(62, 183, 240); }
+  }
+
+  .post-date,
+  .post-meta { color: #9a9ca6; }
+
+  // The theme has no dark styles for code, so blocks would stay light-grey.
+  pre {
+    background: #2a2c38;
+    border-color: #3a3c4a;
+  }
+
+  code, pre { color: #dadbdf; }
+
+  .post-content :not(pre) > code { background: #2f3140; }
+
+  .post-content .footnotes,
+  .post-nav,
+  blockquote { border-color: #3a3c4a; }
+
+  .highlight {
+    .c, .c1, .cm, .cs, .cp, .cpf { color: #8b949e; }
+    .k, .kc, .kd, .kn, .kp, .kr, .kt, .o, .ow { color: #ff7b72; }
+    .s, .s1, .s2, .sa, .sb, .sc, .sd, .se, .sh, .si, .sr, .ss, .sx { color: #a5d6ff; }
+    .m, .mb, .mf, .mh, .mi, .mo, .il { color: #79c0ff; }
+    .nf, .fm, .nc, .nd, .na { color: #d2a8ff; }
+    .nb, .bp, .no, .nv, .vc, .vg, .vi { color: #79c0ff; }
+    .nt { color: #7ee787; }
+    .gd { color: #ffdcd7; background: #67060c; }
+    .gi { color: #aff5b4; background: #033a16; }
+  }
+}
