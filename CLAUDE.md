@@ -33,7 +33,7 @@ Don't use the host's Ruby or `bundle`: macOS system Ruby is 2.6, too old. Everyt
 - In layouts, link assets as `{{ '/assets/...' | relative_url }}`. The upstream theme used `./assets/...`, which breaks on nested pages like blog posts. The `./assets/img/...` paths in `publications.yml` only work because they render on the homepage.
 - jekyll-titles-from-headings (on by default in GitHub Pages) sets the homepage's `page.title` to its first heading ("About Me"). `default.html` deliberately ignores `page.title` when `page.url == '/'`.
 - Analytics only loads when `google_analytics` is set and `JEKYLL_ENV == production`. It must be a GA4 ID (`G-...`). The template shipped with its author's old UA ID, which was removed; don't restore it.
-- Git remote `upstream` is the template repo (yaoyao-liu/minimal-light). Never push to it. `origin` will be `meunaught/meunaught.github.io` once created.
+- Git remote `upstream` is the template repo (yaoyao-liu/minimal-light). Never push to it. `origin` is `meunaught/meunaught.github.io`; every push to `main` goes live within a minute or two. Our history does not share commits with upstream (it started fresh, like "Use this template"), so pulling theme updates needs `--allow-unrelated-histories` or a manual copy.
 
 ## Content conventions
 
