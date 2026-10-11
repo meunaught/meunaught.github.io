@@ -4,30 +4,39 @@ layout: homepage
 
 ## About Me
 
-<!-- TODO: 3–4 sentences: where you studied, what you work on now, who with, and that you're applying. -->
-I am a prospective Computer Science Ph.D. student applying for **Fall 2027**. I am currently a TODO role at [TODO Lab / Company](https://example.com/), working with [Prof. TODO](https://example.com/) on TODO. I received my B.Sc. in TODO from [TODO University](https://example.com/) in TODO year.
+I am a prospective Computer Science Ph.D. student applying for **Fall 2027**. I received my B.Sc. in Computer Science and Engineering from the [University of Dhaka](https://www.du.ac.bd/programDetails/CSE/396) in 2025.
+
+I am currently a Research Intern at [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html), working with [Prof. Wenxi Wang](https://wenxiwang.github.io/) on formal verification of Rust programs using [Verus](https://github.com/verus-lang/verus). This continues work I began in the [SRSE UIUC++](https://uiuc-srse.github.io/) summer program with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and Prof. Wang.
 
 ## Research Interests
 
-<!-- TODO: be specific. "Robust RL for robot manipulation" reads better than "AI/ML". -->
-- **TODO area:** the specific problems you care about
-- **TODO area:** the specific problems you care about
+My research interests lie in software engineering and programming languages, particularly formal verification and its intersection with AI: using AI to make verification scale, and verification to make AI trustworthy.
 
+{% comment %} News is hidden until there is something to announce (a preprint, paper, talk or award).
+To show it, add items, then delete these first two lines and the endcomment line below.
 ## News
 
 <!-- Newest first. Four or five items is plenty. -->
-- **[Oct. 2026]** Launched this website.
+{% endcomment %}
 
 {% include_relative _includes/publications.md %}
 
 ## Experience
 
-- **TODO Role**, [TODO Lab / Company](https://example.com/) &nbsp;·&nbsp; TODO Month YYYY – Present  
-  One line on what you built or studied, and the result.
+- **Research Intern**, [SRSE UIUC++](https://uiuc-srse.github.io/) &rarr; [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html) &nbsp;·&nbsp; May 2026 – Present  
+  &#8627; Formal verification of Rust code with [Verus](https://github.com/verus-lang/verus)
+- **SWE**, [Samsung Research](https://research.samsung.com/srbd) &nbsp;·&nbsp; Aug 2025 – Jan 2026
+- **Research Analyst**, [Turing](https://www.turing.com/) &nbsp;·&nbsp; Sep 2024 – Jun 2025
+
+## Achievements
+
+- **Top 4%**, [ACM ICPC Dhaka Preliminary](https://icpc.global/ICPCID/T0EACN3Z08DJ) &rarr; Qualified for Regionals
+- **Top 20%**, [Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2020/certificate/2558089417837490) &rarr; Qualified for Round 1
+- **Medalist**, [National Math Olympiad](https://matholympiad.org.bd/posts/gvd/national-result-2019) &rarr; 60th IMO National Camp
 
 ## Education
 
-- **B.Sc. in TODO**, [TODO University](https://example.com/) &nbsp;·&nbsp; YYYY – YYYY  
-  TODO: GPA, thesis title or advisor, if worth mentioning.
+- **B.Sc. in Computer Science and Engineering**, [University of Dhaka](https://www.du.ac.bd/programDetails/CSE/396)  
+  &#8627; CGPA: 3.45/4.00, Class of 2025
 
 {% include recent-posts.html %}

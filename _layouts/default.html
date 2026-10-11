@@ -7,7 +7,7 @@
     <title>{{ page.title }} | {{ site.title }}</title>
     {% else %}
     {% assign page_title = site.title %}
-    <title>{{ site.title }} | {{ site.affiliation }}</title>
+    <title>{{ site.title }}{% if site.affiliations %} | {{ site.affiliations[0].name }}{% endif %}</title>
     {% endif %}
     {% assign description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
 
@@ -68,12 +68,12 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
-        {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        {% for affiliation in site.affiliations %}
+        <a href="{{ affiliation.link }}" rel="noopener"><autocolor>{{ affiliation.name }}</autocolor></a>
         <br>
-        {% endif %}
+        {% endfor %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <email><a href="mailto:{{ site.email }}">{{ site.email }}</a></email>
         {% endif %}
 
         <br>
