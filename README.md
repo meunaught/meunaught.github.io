@@ -13,7 +13,7 @@ GitHub Pages builds the site automatically on every push to `main`.
 | About, interests, news, experience, education | `index.md` |
 | Publications | `_data/publications.yml` (section hides itself when empty) |
 | CV | `assets/files/curriculum_vitae.pdf` (replace with yours) |
-| Profile photo | `assets/img/avatar.png` (replace with yours) |
+| Profile photo | `assets/img/avatar.jpg` |
 | Blog posts | `_posts/YYYY-MM-DD-title.md` |
 | Drafts (local preview only) | `_drafts/title.md` |
 | Styles added for the blog | `_sass/blog.scss`, `_sass/blog-dark.scss` |

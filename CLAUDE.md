@@ -39,5 +39,5 @@ Don't use the host's Ruby or `bundle`: macOS system Ruby is 2.6, too old. Everyt
 
 - Placeholders are marked `TODO`. Grep for them before publishing.
 - In publications, wrap Mahadi's name in `<strong>`.
-- `assets/files/curriculum_vitae.pdf` and `assets/img/avatar.png` are still template samples until replaced.
+- `assets/files/curriculum_vitae.pdf` is still the template sample until replaced.
 - Keep the homepage short and research-first. Its readers are PhD admissions committees and prospective advisors.
