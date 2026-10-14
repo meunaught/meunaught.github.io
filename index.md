@@ -39,4 +39,9 @@ To show it, add items, then delete these first two lines and the endcomment line
 - **B.Sc. in Computer Science and Engineering**, [University of Dhaka](https://www.du.ac.bd/programDetails/CSE/396)  
   &#8627; CGPA: 3.45/4.00, Class of 2025
 
+## Service
+
+- **Academic Team Member**, [Bangladesh Mathematical Olympiad](https://matholympiad.org.bd/) &nbsp;·&nbsp; Jan 2020 – Aug 2022  
+  &#8627; Problem setting, grading, and training camps for contestants
+
 {% include recent-posts.html %}
