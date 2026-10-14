@@ -25,14 +25,14 @@ To show it, add items, then delete these first two lines and the endcomment line
 
 - **Research Intern**, [SRSE UIUC++](https://uiuc-srse.github.io/) &rarr; [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html) &nbsp;·&nbsp; May 2026 – Present  
   &#8627; Formal verification of Rust code with [Verus](https://github.com/verus-lang/verus)
-- **SWE**, [Samsung Research](https://research.samsung.com/srbd) &nbsp;·&nbsp; Aug 2025 – Jan 2026
+- **Software Engineer**, [Samsung Research](https://research.samsung.com/srbd) &nbsp;·&nbsp; Aug 2025 – Jan 2026
 - **Research Analyst**, [Turing](https://www.turing.com/) &nbsp;·&nbsp; Sep 2024 – Jun 2025
 
-## Achievements
+## Selected Achievements
 
 - **Top 4%**, [ACM ICPC Dhaka Preliminary](https://icpc.global/ICPCID/T0EACN3Z08DJ) &rarr; Qualified for Regionals
 - **Top 20%**, [Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2020/certificate/2558089417837490) &rarr; Qualified for Round 1
-- **Top 16**, [National Math Olympiad 2019](https://matholympiad.org.bd/posts/gvd/national-result-2019) &rarr; Qualified for IMO Team Selection Test
+- **Top 16**, [National Math Olympiad](https://matholympiad.org.bd/posts/gvd/national-result-2019) &rarr; Qualified for IMO Team Selection Test
 
 ## Education
 
