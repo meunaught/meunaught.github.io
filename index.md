@@ -32,7 +32,7 @@ To show it, add items, then delete these first two lines and the endcomment line
 
 - **Top 4%**, [ACM ICPC Dhaka Preliminary](https://icpc.global/ICPCID/T0EACN3Z08DJ) &rarr; Qualified for Regionals
 - **Top 20%**, [Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2020/certificate/2558089417837490) &rarr; Qualified for Round 1
-- **Medalist**, [National Math Olympiad](https://matholympiad.org.bd/posts/gvd/national-result-2019) &rarr; 60th IMO National Camp
+- **Top 16**, [National Math Olympiad 2019](https://matholympiad.org.bd/posts/gvd/national-result-2019) &rarr; Qualified for IMO Team Selection Test
 
 ## Education
 
