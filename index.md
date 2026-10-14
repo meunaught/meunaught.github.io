@@ -6,7 +6,7 @@ layout: homepage
 
 I am a prospective Computer Science Ph.D. student applying for **Fall 2027**. I received my B.Sc. in Computer Science and Engineering from the [University of Dhaka](https://www.du.ac.bd/programDetails/CSE/396) in 2025.
 
-I am currently a Research Intern at [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html), working with [Prof. Wenxi Wang](https://wenxiwang.github.io/) on formal verification of Rust programs using [Verus](https://github.com/verus-lang/verus). This continues work I began in the [SRSE UIUC++](https://uiuc-srse.github.io/) summer program with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and Prof. Wang.
+I am currently a Research Intern at [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html), working with [Prof. Wenxi Wang](https://wenxiwang.github.io/) on formal verification of Rust programs using [Verus](https://github.com/verus-lang/verus). This continues work I began in the [UIUC++ SRSE](https://uiuc-srse.github.io/) summer program with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and Prof. Wang.
 
 ## Research Interests
 
@@ -23,7 +23,7 @@ To show it, add items, then delete these first two lines and the endcomment line
 
 ## Experience
 
-- **Research Intern**, [SRSE UIUC++](https://uiuc-srse.github.io/) &rarr; [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html) &nbsp;·&nbsp; May 2026 – Present  
+- **Research Intern**, [UIUC++ SRSE](https://uiuc-srse.github.io/) &rarr; [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html) &nbsp;·&nbsp; May 2026 – Present  
   &#8627; Formal verification of Rust code with [Verus](https://github.com/verus-lang/verus)
 - **Software Engineer**, [Samsung Research](https://research.samsung.com/srbd) &nbsp;·&nbsp; Aug 2025 – Jan 2026
 - **Research Analyst**, [Turing](https://www.turing.com/) &nbsp;·&nbsp; Sep 2024 – Jun 2025
