@@ -26,7 +26,7 @@ To show it, add items, then delete these first two lines and the endcomment line
 - **Research Intern**, [UIUC++ SRSE](https://uiuc-srse.github.io/) &rarr; [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html) &nbsp;·&nbsp; May 2026 – Present  
   &#8627; Formal verification of Rust code with [Verus](https://github.com/verus-lang/verus)
 - **Software Engineer**, [Samsung Research](https://research.samsung.com/srbd) &nbsp;·&nbsp; Aug 2025 – Jan 2026
-- **Research Analyst**, [Turing](https://www.turing.com/) &nbsp;·&nbsp; Sep 2024 – Jun 2025
+- **Research Analyst**, [Turing](https://www.turing.com/) &nbsp;·&nbsp; Oct 2024 – Jul 2025
 
 ## Selected Achievements
 
