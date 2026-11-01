@@ -39,5 +39,5 @@ Don't use the host's Ruby or `bundle`: macOS system Ruby is 2.6, too old. Everyt
 
 - Placeholders are marked `TODO`. Grep for them before publishing.
 - In publications, wrap Mahadi's name in `<strong>`.
-- `assets/files/curriculum_vitae.pdf` is a copy of `~/Developer/cs-job-tracking/resume/output/phd.pdf`. Re-copy it when the resume changes.
+- `assets/files/curriculum_vitae.pdf` must always be an exact copy of `~/Developer/cs-job-tracking/resume/output/phd.pdf` (that repo is private, so the site can't link to it). A local `.git/hooks/pre-commit` hook (not tracked) copies and stages it whenever the two differ.
 - Keep the homepage short and research-first. Its readers are PhD admissions committees and prospective advisors.
