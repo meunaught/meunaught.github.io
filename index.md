@@ -10,7 +10,8 @@ I am currently a Research Intern at [HIPREL Lab, UVA](https://wenxiwang.github.i
 
 ## Research Interests
 
-My research interests lie in software engineering and programming languages, particularly formal verification and its intersection with AI: using AI to make verification scale, and verification to make AI trustworthy.
+- **AI for Formal Verification:** using LLMs to synthesize verified code, proofs and invariants
+- **Software Engineering & Programming Languages:** program correctness, verification tools
 
 {% comment %} News is hidden until there is something to announce (a preprint, paper, talk or award).
 To show it, add items, then delete these first two lines and the endcomment line below.
@@ -23,27 +24,27 @@ To show it, add items, then delete these first two lines and the endcomment line
 
 ## Experience
 
-- **Research Intern**, [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html) &nbsp;·&nbsp; Sep 2026 – Present  
-  &#8627; Formal verification of Rust code with [Verus](https://github.com/verus-lang/verus)
-- **Summer Research Intern**, [UIUC++ SRSE](https://uiuc-srse.github.io/) &nbsp;·&nbsp; Jun 2026 – Sep 2026  
-  &#8627; Acknowledged in [The Discreet Charm of the Bugeoisie](https://mir.cs.illinois.edu/~marinov/publications/KimETAL26Bugeoisie.pdf) (ISSTA 2026) and [VeriContest](https://arxiv.org/abs/2605.08553) (NeurIPS 2026)
-- **SWE, Testing & Eval**, [AfterQuery](https://experts.afterquery.com/) &nbsp;·&nbsp; Feb 2026 – Present  
-  &#8627; Built [Terminal-Bench](https://www.tbench.ai/) tasks and hardened their verifiers against reward hacking
+- **Research Intern**, [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html) &nbsp;·&nbsp; Sep 2026 – Present
+- **Summer Research Intern**, [UIUC++ SRSE](https://uiuc-srse.github.io/) &nbsp;·&nbsp; Jun 2026 – Sep 2026
+- **SWE, Testing & Eval**, [AfterQuery Experts](https://experts.afterquery.com/) &nbsp;·&nbsp; Feb 2026 – Present
 - **Software Engineer**, [Samsung Research](https://research.samsung.com/srbd) &nbsp;·&nbsp; Aug 2025 – Jan 2026
 - **Research Analyst**, [Turing](https://www.turing.com/) &nbsp;·&nbsp; Sep 2024 – Jul 2025
 
 ## Selected Achievements
 
-- **Top 4%**, [ACM ICPC Dhaka Preliminary](https://icpc.global/ICPCID/T0EACN3Z08DJ) &rarr; Qualified for Regionals
-- **Top 20%**, [Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2020/certificate/2558089417837490) &rarr; Qualified for Round 1
-- **Top 16**, [National Math Olympiad](https://matholympiad.org.bd/posts/gvd/national-result-2019) &rarr; Qualified for IMO Team Selection Test
-- **Top 0.1%**, University of Dhaka Entrance Test &rarr; Among 85,000+ candidates
+- **[National Math Olympiad](https://matholympiad.org.bd/posts/gvd/national-result-2019#:~:text=7010-,Mahadi%20Hasan,-Govt.%20M.m)** &rarr; Top 16 of more than 75,000 students, qualified for the IMO Team Selection Test &nbsp;·&nbsp; 2019
+- **[ACM ICPC Dhaka Preliminary](https://icpc.global/ICPCID/T0EACN3Z08DJ)** &rarr; Top 4%, qualified for the Dhaka Regional &nbsp;·&nbsp; 2021
+- **[Code Samurai Hackathon](https://codesamuraibd.net/)** &rarr; Finalist, one of 46 teams from 27 universities nationwide &nbsp;·&nbsp; 2024
+- **[Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2020/certificate/2558089417837490)** &rarr; Top 20% globally, qualified for Round 1 &nbsp;·&nbsp; 2020
+- **Integration Bee** &rarr; Winner of the intra-university contest at the University of Dhaka &nbsp;·&nbsp; 2023
 
 ## Education
 
 - **B.Sc. in Computer Science and Engineering**, [University of Dhaka](https://www.du.ac.bd/programDetails/CSE/396)  
-  &#8627; CGPA: 3.45/4.00, Class of 2025  
-  &#8627; Thesis: Hypergraph Contrastive Learning for Financial Fraud Detection, supervised by [Prof. Chowdhury Farhan Ahmed](https://scholar.google.com/citations?user=0huuef0AAAAJ)
+  &#8627; CGPA: 3.45/4.00 &nbsp;·&nbsp; July 2025  
+  &#8627; Thesis: Hypergraph Contrastive Learning for Financial Fraud Detection  
+  &#8627; Supervisor: [Prof. Chowdhury Farhan Ahmed](https://scholar.google.com/citations?user=0huuef0AAAAJ)  
+  &#8627; Admission: Top 0.1% in the entrance test, among 85,000+ candidates &nbsp;·&nbsp; 2019
 
 ## Service
 
