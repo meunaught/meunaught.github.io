@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a prospective Computer Science Ph.D. student applying for **Fall 2027**. I received my B.Sc. in Computer Science and Engineering from the [University of Dhaka](https://www.du.ac.bd/programDetails/CSE/396) in 2025.
+I am a prospective Computer Science Ph.D. student applying for **Fall 2027**. I received my B.Sc. in Computer Science and Engineering from the [University of Dhaka](https://www.du.ac.bd/body/CSE) in 2025.
 
 I am currently a Research Intern at [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html), working with [Prof. Wenxi Wang](https://wenxiwang.github.io/) on formal verification of Rust programs using [Verus](https://github.com/verus-lang/verus). This continues work I began in the [UIUC++ SRSE](https://uiuc-srse.github.io/) summer program with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and Prof. Wang, after which I was one of 9 of 107 students selected to continue. I am now working toward a paper submission on a first-author project at the intersection of Verus, LLMs and GPU kernels.
 
@@ -40,7 +40,7 @@ To show it, add items, then delete these first two lines and the endcomment line
 
 ## Education
 
-- **B.Sc. in Computer Science and Engineering**, [University of Dhaka](https://www.du.ac.bd/programDetails/CSE/396)  
+- **[B.Sc. in Computer Science and Engineering](https://ssl.du.ac.bd/storage/private/fontView/images/syllabus/1685245754Syllabus2019-20signatured.pdf)**, [University of Dhaka](https://www.du.ac.bd/body/CSE)  
   &#8627; CGPA: 3.45/4.00 &nbsp;·&nbsp; July 2025  
   &#8627; Thesis: Hypergraph Contrastive Learning for Financial Fraud Detection  
   &#8627; Supervisor: [Prof. Chowdhury Farhan Ahmed](https://scholar.google.com/citations?user=0huuef0AAAAJ)  
