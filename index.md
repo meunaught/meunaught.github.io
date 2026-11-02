@@ -48,9 +48,7 @@ To show it, add items, then delete these first two lines and the endcomment line
 
 ## Service
 
-- **Co-host & Problem Setter**, [Battle of Brains, University of Dhaka](https://toph.co/c/cseduic-battle-of-brains-2023) &nbsp;·&nbsp; 2023  
-  &#8627; Set [Schrödinger's Brightness](https://toph.co/p/schr-dinger-s-brightness) for the department's ICPC-style contest
-- **Academic Team Member**, [Bangladesh Mathematical Olympiad](https://matholympiad.org.bd/) &nbsp;·&nbsp; Jan 2020 – Aug 2022  
-  &#8627; Grading and training camps for contestants
+- **Co-host & Problem Setter**, [Battle of Brains, University of Dhaka](https://toph.co/c/cseduic-battle-of-brains-2023) &nbsp;·&nbsp; 2023
+- **Academic Team Member**, [Bangladesh Mathematical Olympiad](https://matholympiad.org.bd/) &nbsp;·&nbsp; Jan 2020 – Aug 2022
 
 {% include recent-posts.html %}
