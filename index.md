@@ -11,7 +11,8 @@ I am currently a Research Intern at [HIPREL Lab, UVA](https://wenxiwang.github.i
 ## Research Interests
 
 - **AI for Formal Verification:** using LLMs to synthesize verified code, proofs and invariants
-- **Software Engineering & Programming Languages:** program correctness, verification tools
+- **AI for Software Engineering:** evaluating LLM coding agents, benchmarks and reward hacking
+- **Software Engineering & Programming Languages:** program verification, software testing and formal methods for security
 
 {% comment %} News is hidden until there is something to announce (a preprint, paper, talk or award).
 To show it, add items, then delete these first two lines and the endcomment line below.
