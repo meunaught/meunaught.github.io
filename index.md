@@ -6,7 +6,7 @@ layout: homepage
 
 I am a prospective Computer Science Ph.D. student applying for **Fall 2027**. I received my B.Sc. in Computer Science and Engineering from the [University of Dhaka](https://www.du.ac.bd/body/CSE) in 2025.
 
-I am currently a Research Intern at [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html), working with [Prof. Wenxi Wang](https://wenxiwang.github.io/) on formal verification of Rust programs using [Verus](https://github.com/verus-lang/verus). This continues work I began in the [UIUC++ SRSE](https://uiuc-srse.github.io/) summer program with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) and Prof. Wang, after which I was one of 9 of 107 students selected to continue. I am now working toward a paper submission on a first-author project at the intersection of Verus, LLMs and GPU kernels.
+I am currently a Research Intern at [HIPREL Lab, UVA](https://wenxiwang.github.io/lab.html), working with [Prof. Wenxi Wang](https://wenxiwang.github.io/) on formal verification of Rust programs using [Verus](https://github.com/verus-lang/verus).
 
 ## Research Interests
 
